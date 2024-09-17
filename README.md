@@ -1,6 +1,6 @@
 Here’s a cool Markdown version of your code with added flair:
 
-# 🚀 Anomaly Detection with Ensemble Models
+# 🚀 Anomaly Detection with Stacked Model Approach(Ensemble models)
 
 This project demonstrates anomaly detection using three models: **Isolation Forest**, **One-Class SVM**, and an **Autoencoder**. We then create an ensemble model to combine the anomaly scores and evaluate the performance using AUC scores.
 
