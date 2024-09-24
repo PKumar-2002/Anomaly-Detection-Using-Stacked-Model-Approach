@@ -131,7 +131,3 @@ The ensemble model shows strong performance with the following AUC scores:
 
 - **Validation AUC:** 93.64%
 - **Test AUC:** 97.63%
-
-```
-
-This Markdown version highlights the key steps in your anomaly detection pipeline while keeping it sleek and readable. The use of emoji makes it engaging and professional!
